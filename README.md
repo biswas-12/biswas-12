@@ -5,8 +5,8 @@
 
 ### 💻 Technical Skills
 - **Cloud Platforms**: Google Cloud Platform, Amazon Web Services
-- **DevOps Tools**: Docker, Jenkins, Terraform, Git, GitHub
-- **Programming Languages**: Python, Java
+- **DevOps Tools**: Docker, Kubernetes, Jenkins, Terraform, Git, GitHub
+- **Programming Languages**: Python
 
 
 <h3 align="left">Languages and Tools:</h3>
