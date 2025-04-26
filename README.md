@@ -5,8 +5,7 @@
 
 ### 🌟 About Me
 🎓 I'm a final-year **Computer Science and Engineering** student passionate about **Cloud Technologies**, **DevOps Practices**, and **Continuous Learning**.  
-🌱 I love exploring emerging technologies, building real-world projects, contributing to communities, and sharing knowledge.  
-✨ My journey is fueled by **curiosity, creativity, and collaboration**.
+✨ I enjoy exploring emerging technologies and building communities
 
 ---
 
