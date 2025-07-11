@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Biswanath Sah</h1>
-<h3 align="center">🎯 Cloud & DevOps Enthusiast || Learning Every Day</h3>
+<h3 align="center">🎯 Cloud & DevOps Enthusiast </h3>
 
 ---
 
